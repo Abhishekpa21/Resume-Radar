@@ -71,16 +71,8 @@ Overall Score = (Similarity × 35%) + (Skill Match × 45%) + (Keyword Match × 2
 
 ---
 
-## Deploy to Render
+demo
 
-```bash
-# Add Procfile with:
-web: gunicorn app:app
+https://resume-radar-6sel.onrender.com/
 
-# Set env var in Render dashboard:
-ANTHROPIC_API_KEY = your_key_here
 
-# Push to GitHub → connect Render → deploy
-```
-
----
