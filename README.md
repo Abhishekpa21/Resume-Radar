@@ -84,11 +84,3 @@ ANTHROPIC_API_KEY = your_key_here
 ```
 
 ---
-
-## CV Description
-
-**ResumeRadar — AI-Powered Resume Match Analyzer**
-- Built NLP pipeline using TF-IDF + cosine similarity to score resume-JD alignment
-- Integrated Claude AI API to intelligently rewrite resume bullets for specific job roles
-- Engineered skill extraction system covering 100+ skills across 8 technical categories
-- Designed full-stack Flask app with PDF parsing, real-time scoring, and Chart.js visualizations
